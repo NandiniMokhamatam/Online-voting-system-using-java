@@ -3,7 +3,7 @@ import java.sql.*;
 //``import java.io.*;
 
 
-public class OnlineVotingSystem1hh {
+public class OnlineVotingSystem1hhhhhhkkkk {
    static final String DB_URL = "jdbc:mysql://localhost/voting_system"; // Replace with your own database URL
    static final String USER = "root"; // Replace with your own username
    static final String PASS = "nandini@123_mokhamatam"; // Replace with your own password
